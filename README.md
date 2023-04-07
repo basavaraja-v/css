@@ -1,4 +1,5 @@
-- Recently fine-tuned chatGPT on custom data [Check here](https://colab.research.google.com/drive/1KTKJ5-95bhf0zyRJwnKBYzHkTVV-i9rR#scrollTo=0deDr8vKIDFy)
+1. Recently fine-tuned chatGPT on custom data [Check here](https://colab.research.google.com/drive/1KTKJ5-95bhf0zyRJwnKBYzHkTVV-i9rR#scrollTo=0deDr8vKIDFy)
+2. Below are the smaple chatGPT prompts used to design sign with google
 - Prompt: generate professional looking login ui/ux, sign with google and write index.html
 
 - ChatGPT: Here's an example of a professional-looking login UI/UX design with sign-in with Google option:
